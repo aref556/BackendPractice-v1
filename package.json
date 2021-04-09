@@ -34,6 +34,7 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.12.3",
     "mongoose-lean-virtuals": "^0.7.6",
+    "nest-winston": "^1.4.1",
     "nodemon": "^2.0.7",
     "passport": "^0.4.1",
     "passport-http-bearer": "^1.0.1",
@@ -42,7 +43,8 @@
     "password-hash": "^1.2.2",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
-    "rxjs": "^6.6.6"
+    "rxjs": "^6.6.6",
+    "winston": "^3.3.3"
   },
   "devDependencies": {
     "@nestjs/cli": "^7.6.0",
